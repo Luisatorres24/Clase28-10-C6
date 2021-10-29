@@ -1,1 +1,2 @@
-practicando con git
+practicando con git y git hub
+creando texto

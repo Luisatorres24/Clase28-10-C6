@@ -1,1 +1,3 @@
-introducion
+introducion a la informatica
+hola
+creando texto
